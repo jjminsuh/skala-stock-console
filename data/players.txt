@@ -1,0 +1,1 @@
+test1,662.36,SkalaEdu:80.65:2|GreenEnergy:83.86:1

@@ -1,0 +1,3 @@
+TechCorp,225.12
+GreenEnergy,41.49
+SkalaEdu,109.97
